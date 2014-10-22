@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  razon_social: MyString
+  familia: MyString
+  ruc: 1
+  direccion: MyString
+  contacto: MyString
+  correo: MyString
+  web: MyString
+  celular: 1
+  telefono: 1
+  fax: 1
+  cta_banco: 1
+
+two:
+  razon_social: MyString
+  familia: MyString
+  ruc: 1
+  direccion: MyString
+  contacto: MyString
+  correo: MyString
+  web: MyString
+  celular: 1
+  telefono: 1
+  fax: 1
+  cta_banco: 1

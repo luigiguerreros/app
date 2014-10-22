@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombre: MyString
+  desc: MyString
+  precio: 9.99
+  precio_publico: 9.99
+  stock: 1
+  unid_med: MyString
+  marca: MyString
+
+two:
+  nombre: MyString
+  desc: MyString
+  precio: 9.99
+  precio_publico: 9.99
+  stock: 1
+  unid_med: MyString
+  marca: MyString
